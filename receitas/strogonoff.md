@@ -1,2 +1,2 @@
 # Strogonoff de Frango!
-** negrito apistotelis testando _ italico
+**negrito apistotelis testando** _italico_
